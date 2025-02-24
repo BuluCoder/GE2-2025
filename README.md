@@ -35,6 +35,20 @@
 - https://github.com/skooter500/GE2-LabTest2-2017
 - https://github.com/skooter500/GAILabTest12017
 
+## Week 4 - Refactoring
+- [SOLID Principles](https://www.digitalocean.com/community/conceptual-articles/s-o-l-i-d-the-first-five-principles-of-object-oriented-design)
+- [Procedural Animation](https://www.roadtovr.com/the-need-for-procedural-animation-in-virtual-reality-ocean-rift-developer/)
+- [Archaic Revival](https://archive.org/stream/pdfy-CVSFsGW3fYSFP1wM/McKenna%2C%20Terence%20-%20The%20Archaic%20Revival_djvu.txt) 
+
+## Lab
+- Create a formation generator that creates a V formation of boids with the leader implementing path follow and the followers implementing offset pursue:
+
+[![Video](http://img.youtube.com/vi/bydalDzhCBY/0.jpg)](http://www.youtube.com/watch?v=bydalDzhCBY)
+
+- The Formation Generator should expose leader and followers as fields
+
+- Modify the formation generator to use Tweens wheen spawning in the agents
+- Modify the formation generator to generate boids in a semi circle
 
 ## Week 3 
 - Player Steering
